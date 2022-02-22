@@ -1,0 +1,49 @@
+
+Task 1:
+pwd
+
+Task 2:
+ls 
+
+Task 3: 
+cd freight
+
+Task 4:
+ls
+
+Task 5:
+cd porteur
+
+Task 6: 
+cd ../..
+ls
+
+Task 7:
+cd mountain/downhill
+
+Task 8:
+touch dirt.txt
+
+Task 9:
+touch mud.txt
+
+Task 10:
+ls
+
+Task 11:
+mkdir safety
+
+Task 12:
+cd ../..
+
+Task 13:
+ls
+
+Task 14:
+mkdir bmx
+
+Task 15:
+touch bmx/tricks.txt
+
+Task 16:
+ls
